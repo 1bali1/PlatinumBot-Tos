@@ -40,11 +40,12 @@ Az irányelv ulsó frissítése: 2023. 12. 30.
 ----- Platinum Bot • Adatvédelem -----
 
 
-• Platinum Bot kizárólag felhasználók azonosítóját tárolja a szolgáltatás igénybevétele során.
+• Platinum Bot kizárólag felhasználók azonosítóját tárolja a szolgáltatás igénybevétele során(Kivéve a KRÉTA rendszert).
 Az alábbiakban részletezzük az adatgyűjtési és -tárolási gyakorlatunkat.
 
 ▶ KRÉTA Adatok◀
 
+Összes adatod védve, és titkosítva van.
 Platinum Bot csapata nem vállal semmilyen féle felellőséget kiszivárgott adatok után.
 
 ▶ Felhaszlálási Azonosítok ◀
