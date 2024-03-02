@@ -1,4 +1,5 @@
 Platinum Bot
+
 ---- Platinum Bot • Felhasználási Feltételek ----
 
 
@@ -45,8 +46,9 @@ Az alábbiakban részletezzük az adatgyűjtési és -tárolási gyakorlatunkat.
 
 ▶ KRÉTA Adatok◀
 
-Összes adatod védve, és titkosítva van.
-Platinum Bot csapata nem vállal semmilyen féle felellőséget kiszivárgott adatok után.
+
+Összes adatodat egy privát szerver gépen védve, és titkosítva tároljuk.
+Platinum Bot csapata nem vállal semmilyen féle felellőséget kiszivárgott adatok után.*
 
 ▶ Felhaszlálási Azonosítok ◀
 
