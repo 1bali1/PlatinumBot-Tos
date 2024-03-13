@@ -46,9 +46,7 @@ Az alábbiakban részletezzük az adatgyűjtési és -tárolási gyakorlatunkat.
 
 ▶ KRÉTA Adatok◀
 
-
-Összes adatodat egy privát szerver gépen védve, és titkosítva tároljuk.
-Platinum Bot csapata nem vállal semmilyen féle felellőséget kiszivárgott adatok után.*
+A KRÉTA rendszer már nem elérhető.
 
 ▶ Felhaszlálási Azonosítok ◀
 
