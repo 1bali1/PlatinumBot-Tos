@@ -68,7 +68,7 @@ A tárold felhasználóknak joga van kérni az adataikhoz való hozzáférést, 
 
 A bot nem gyűjt vagy tárol bármilyen egyéb személyes információt, beleétve, de nem kizárólagosan a felhaszálók nevét, e-mail-címét vagy más azonosítoi adatokat.
 
-* ▶ Weboldal, Dashboard ◀
+ ▶ Weboldal, Dashboard ◀*
 A Kezelő felületünkön történő látogatások során IP-címeket gyűjtünk és tárolunk. Ezeket az IP-címeket csak azért tároljuk, hogy a rendszert biztonságosabbá tegyük és megvédjük a károkozásoktól, például a túlzott lekérések esetén. Nem tároljuk vagy használjuk ezeket az IP-címeket semmilyen más célra, és nem adjuk ki harmadik félnek.
 
 • A felhasználói azonosítók tárolási időtartama meghatározott, és az adatok csak a bot működéséhez elengethetetlen időszakig kerülnek megőrzésre.
