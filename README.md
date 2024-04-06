@@ -70,7 +70,7 @@ A bot nem gyűjt vagy tárol bármilyen egyéb személyes információt, beleét
 
 ▶ Weboldal, Dashboard ◀*
 
-A Kezelő felületünkön történő látogatások során IP-címeket gyűjtünk és tárolunk. Ezeket az IP-címeket csak azért tároljuk, hogy a rendszert biztonságosabbá tegyük és megvédjük a károkozásoktól, például a túlzott lekérések esetén. Nem tároljuk vagy használjuk ezeket az IP-címeket semmilyen más célra, és nem adjuk ki harmadik félnek.
+A kezelőfelületünkön történő látogatások során IP-címeket gyűjtünk és tárolunk. Ezeket az IP-címeket csak azért tároljuk, hogy a rendszert biztonságosabbá tegyük és megvédjük a károkozásoktól, például a túlzott lekérések esetén. Nem tároljuk vagy használjuk ezeket az IP-címeket semmilyen más célra, és nem adjuk ki harmadik félnek.
 
 • A felhasználói azonosítók tárolási időtartama meghatározott, és az adatok csak a bot működéséhez elengethetetlen időszakig kerülnek megőrzésre.
-Az irányelv ulsó frissítése: 2023. 01. 27.
+Az irányelv ulsó frissítése: 2024. 04. 06.
